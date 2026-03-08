@@ -1,5 +1,25 @@
-<h1>Estudando manipulações de eventos com javascript.</h1>
+# 🎮 Estudando Manipulação de Eventos com JavaScript
 
-<h2>Aluguel-games-alura.</h2>
+Projeto desenvolvido para praticar **manipulação de eventos utilizando JavaScript**.
 
-<p>Clique no link para ver o projeto  https://aluguel-games-alura.vercel.app/</p>
+## 🕹 Projeto
+**Aluguel Games - Alura**
+
+## 🚀 Visualizar o projeto
+
+Clique no link abaixo para acessar:
+
+👉 **[Ver projeto](https://aluguel-games-alura.vercel.app/)**
+
+<img width="1863" height="928" alt="image" src="https://github.com/user-attachments/assets/c65fab1d-87f4-4c10-be6c-924176d24b76" />
+
+
+## 🛠 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Wagner Jesus**
